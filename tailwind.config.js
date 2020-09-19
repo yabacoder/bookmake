@@ -8,6 +8,10 @@ module.exports = {
         darkblue: '#252B46',
         bkred: '#FA5757'
       },
+      margin: {
+                '-72': '-18rem',
+                '-80': '-22rem',
+                }
     },
   },
   variants: {
@@ -15,3 +19,4 @@ module.exports = {
   },
   plugins: [],
 }
+ 

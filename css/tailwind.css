@@ -1,3 +1,4 @@
+
 @tailwind base;
 @tailwind components;
 
@@ -8,6 +9,10 @@
   }
 
   p {
-    @apply  text-lg;
+    @apply  text-base ;
+  }
+
+  p {
+      @apply text-grayblue;
   }
 @tailwind utilities;

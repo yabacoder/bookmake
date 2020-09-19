@@ -15,7 +15,7 @@
     "live-server": "^1.2.1",
     "npm-cli": "^0.1.0",
     "postcss": "^7.0.32",
-    "postcss-cli": "^7.1.1",
+    "postcss-cli": "^7.1.2",
     "tailwindcss": "^1.7.5"
   }
 }
