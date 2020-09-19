@@ -15,4 +15,7 @@
   p {
       @apply text-grayblue;
   }
+  #menu-toggle:checked + #menu {
+    display: block;
+}
 @tailwind utilities;
