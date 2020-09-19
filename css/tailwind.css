@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+
+@font-face {
+    font-family: "Rubik";
+    src: url(https://fonts.google.com/specimen/Rubik);
+    /* font-weight: 400, 500; */
+  }
+
+  p {
+    @apply  text-lg;
+  }
+@tailwind utilities;
